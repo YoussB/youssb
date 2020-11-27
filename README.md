@@ -1,7 +1,7 @@
 ### Hi there, I am Bishoy 👋
 
 - 🔭 I’m currently starting to work on [knative](https://github.com/knative)
-- 📒 I've started documenting my learnings in a tiny blog http://www.cloudchowder.com/blog
+- 📒 I've started documenting my learnings in a tiny blog https://www.cloudchowder.com/blog
   - it is soooo tiny that might even not see it at all 😅.
 <!--
 **YoussB/youssb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
