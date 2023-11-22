@@ -1,10 +1,10 @@
 ## Hi there, I am Bishoy 👋
-### 🤓 For now I am not a super active open-source engineer, but I will be back soon! 🤓
+
+- 🔭 I provide software consultancy for SMBs. [Here's](https://bishoy.tech) how we can work together.
 - 👨🏽‍💻 I work as the CTO of a German startup [Mytigate](https://mytigate.com)
 - 🔭 I used to work on [Concourse](https://github.com/concourse) & [knative](https://github.com/knative)
-- 📒 I, occasionally, work on my website, [CloudChowder](https://www.cloudchowder.com) which is intended to be a blog of my own thoughts and experiments as well as some info about me.
-   - it is still under construction, for now. 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bishoygyoussef/).
+- 📒 [CloudChowder](https://www.cloudchowder.com) is my next big thing!
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bishoygyoussef/), or my website [bishoy.tech](https://bishoy.tech)
 - 😄 Pronouns: He/Him
 - Avatar Credit to [@deniseyu](https://twitter.com/deniseyu21)
 
